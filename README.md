@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Marwa Yosry! 👋🎭
+# Hi there, I'm Marwa Yosry! 
 
-### 🤖 Machine Learning Engineer | NLP & Deep Learning | Arabic AI
+###  Machine Learning Engineer | NLP & Deep Learning | Arabic AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwa-yousry-a39723353)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marwa698)
@@ -12,18 +12,18 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 AI Engineering Student at **HITU**
-- 🌍 Based in **Cairo, Egypt**
-- 🔭 Currently working on **Arabic Emotion Detection using AraBERT**
-- 🌱 Passionate about **NLP, Deep Learning & Arabic AI**
-- ☁️ Certified **AWS Machine Learning Engineer** (via Manara)
-- 🏆 **HarvardX CS50AI** Graduate
+-  AI Engineering Student at **HITU**
+-  Based in **Cairo, Egypt**
+-  Currently working on **Arabic Emotion Detection using AraBERT**
+-  Passionate about **NLP, Deep Learning & Arabic AI**
+-  Certified **AWS Machine Learning Engineer** (via Manara)
+-  **HarvardX CS50AI** Graduate
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Core**
 
@@ -53,9 +53,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎭 Arabic Emotion Detection on Twitter (AraBERT)
+### Arabic Emotion Detection on Twitter (AraBERT)
 > Fine-tuning AraBERT for multi-label emotion classification on Arabic tweets
 - **11 emotions** detected simultaneously (anger, joy, sadness, fear, love...)
 - Improved **Macro F1 from 0.49 → 0.61** over TF-IDF baseline
@@ -65,7 +65,7 @@
 
 ---
 
-### 🩺 AI Medical Diagnosis System
+###  AI Medical Diagnosis System
 > Disease prediction using structured medical data
 - Predicts Heart Disease, Diabetes & Breast Cancer
 - Applied **SVM, Logistic Regression, Random Forest, XGBoost**
@@ -73,7 +73,7 @@
 
 ---
 
-### 🎤 Speech Emotion Recognition
+###  Speech Emotion Recognition
 > Recognizing human emotions from voice audio files
 - Used **MFCCs** feature extraction + **CNN/RNN/LSTM** models
 - Trained on **RAVDESS, TESS & EMODB** datasets
@@ -81,35 +81,35 @@
 
 ---
 
-### 🔢 MNIST Digit Classification
+###  MNIST Digit Classification
 > CNN model for handwritten digit recognition
 - Built with **TensorFlow/Keras**
 - `Computer Vision` `CNN` `Keras`
 
 ---
 
-### 💳 Credit Scoring Model
+###  Credit Scoring Model
 > Predicting credit scores using financial features
 - Used **Random Forest & Pandas**
 - `scikit-learn` `Tabular ML`
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 | Certificate | Issuer | Date |
 |---|---|---|
-| 🎓 CS50AI: Intro to AI with Python | **HarvardX** | Jun 2026 |
-| ☁️ AWS: Becoming a Machine Learning Engineer | **AWS × Manara** | 2026 |
-| 🔥 Introduction to Deep Learning with PyTorch | **DataCamp** | Aug 2025 |
-| 📊 Unsupervised Learning in Python | **DataCamp** | Aug 2025 |
-| 📈 Data Science & Analytics | **HP LIFE** | Sep 2025 |
-| 🌐 Data Analytics Essentials | **Cisco Networking Academy** | Jul 2025 |
-| 🤖 Boost Your Productivity with AI | **Google (Maharat)** | Jun 2025 |
+|  CS50AI: Intro to AI with Python | **HarvardX** | Jun 2026 |
+|  AWS: Becoming a Machine Learning Engineer | **AWS × Manara** | 2026 |
+|  Introduction to Deep Learning with PyTorch | **DataCamp** | Aug 2025 |
+|  Unsupervised Learning in Python | **DataCamp** | Aug 2025 |
+|  Data Science & Analytics | **HP LIFE** | Sep 2025 |
+|  Data Analytics Essentials | **Cisco Networking Academy** | Jul 2025 |
+|  Boost Your Productivity with AI | **Google (Maharat)** | Jun 2025 |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -123,6 +123,6 @@
 
 <div align="center">
 
-*"Building AI that understands Arabic — one model at a time"* 🌍
+*"Building AI that understands Arabic — one model at a time"* 
 
 </div>
